@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31.312" height="30.718" viewBox="0 0 31.312 30.718">
+  <g id="carrito-de-compras" transform="translate(0)">
+    <path id="Path_9" data-name="Path 9" d="M30.378,5.218A4.078,4.078,0,0,0,27.3,3.84H5.674L5.617,3.39A3.954,3.954,0,0,0,1.634,0h-.3A1.31,1.31,0,0,0,0,1.28,1.31,1.31,0,0,0,1.337,2.56h.3A1.318,1.318,0,0,1,2.963,3.69L4.8,18.665a6.591,6.591,0,0,0,6.642,5.653H25.412a1.281,1.281,0,1,0,0-2.56H11.445A4.005,4.005,0,0,1,7.673,19.2H23.616A6.614,6.614,0,0,0,30.2,13.934l1.05-5.572a3.714,3.714,0,0,0-.869-3.143Z" transform="translate(0)" fill="#f85e11"/>
+    <ellipse id="Ellipse_15" data-name="Ellipse 15" cx="2.56" cy="2.56" rx="2.56" ry="2.56" transform="translate(6.747 25.598)" fill="#f85e11"/>
+    <ellipse id="Ellipse_16" data-name="Ellipse 16" cx="2.56" cy="2.56" rx="2.56" ry="2.56" transform="translate(20.241 25.598)" fill="#f85e11"/>
+  </g>
+</svg>
